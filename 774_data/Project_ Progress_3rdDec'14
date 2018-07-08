@@ -1,0 +1,10 @@
+
+
+Project Progress till 3rd Dec 2014
+------------------------------------
+
+
+Installed Kerberos in hadoop cluster and Sandbox.
+
+Working on attacks. Problems with impersonation using Kerberos. Trying to figure out a way to
+do impersonation.
